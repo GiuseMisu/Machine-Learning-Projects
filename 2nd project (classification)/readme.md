@@ -54,7 +54,7 @@ The possible car actions (Labels) include:
 | Second DA     | 0.64                | 0.58                 | 0.58     |
 
 
-<div><video controls src="https://github.com/user-attachments/assets/578bcdca-8159-45ec-8b66-be72901dd876" muted="false" ></video> Video of my best model (2nd CNN, trained without data augmentation) loaded in the Gymnasium's CarRacing
+<div><video controls src="https://github.com/user-attachments/assets/578bcdca-8159-45ec-8b66-be72901dd876" muted="false" ></video> Video of my best model (1st CNN, trained without data augmentation) loaded in the Gymnasium's CarRacing
 environment </div>
 
 ## Tech Used
