@@ -1,4 +1,3 @@
-
 # Second Project: Racing Car Classification
 
 ## Project Overview
@@ -54,11 +53,12 @@ The possible car actions (Labels) include:
 | Second DA     | 0.64                | 0.58                 | 0.58     |
 
 
-<div><video controls src="https://github.com/user-attachments/assets/578bcdca-8159-45ec-8b66-be72901dd876" muted="false" ></video> Video of my best model (1st CNN, trained without data augmentation) loaded in the Gymnasium's CarRacing
-environment </div>
+<div><video controls src="https://github.com/user-attachments/assets/b42acc00-851c-4809-b62c-73ab034c6956" muted="false" ></video> Video of my best model (1st CNN, trained without data augmentation) loaded in the Gymnasium's CarRacing
+environment. </div>
 
 ## Tech Used
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+
 
 
 
